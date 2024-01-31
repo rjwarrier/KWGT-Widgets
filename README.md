@@ -1,0 +1,1 @@
+These are KWGT Widget Pack files which you can import to your KWGT. These were created to work with Nothing Phone 1 running Nothing Launcher in a 5 Icon grid. Colors etc were chonsen to work with Nothing in Dark Mode.
