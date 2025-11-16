@@ -1,3 +1,5 @@
+<img width="527" height="378" alt="image" src="https://github.com/user-attachments/assets/bf1591b8-01b6-4f90-bf9e-6dcd0f1cffcf" />
+
 A detailed, data-rich **KWGT battery statistics widget** powered by Tasker and Shizuku.  
 This widget delivers accurate real-time metrics such as drain rate, mA consumption, cycles, temperature, and battery health — all presented in a clean digital dashboard layout.
 
