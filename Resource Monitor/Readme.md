@@ -1,4 +1,6 @@
-\# Resource Monitor KWGT Widget
+![WhatsApp Image 2025-12-15 at 21 41 49_4525393e](https://github.com/user-attachments/assets/29ba3ac8-e8bd-4845-b041-b0fa09c29d5f)
+
+## Resource Monitor KWGT Widget
 
 
 
