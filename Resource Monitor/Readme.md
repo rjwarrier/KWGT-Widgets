@@ -86,7 +86,7 @@ A minimal \*\*KWGT (Kustom Widget Maker)\*\* widget that displays real‑time sy
 
 
 
-\## ⚙️ Configuration
+## ⚙️ Configuration
 
 
 
