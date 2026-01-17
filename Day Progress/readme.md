@@ -1,5 +1,6 @@
 ## 🌅 Day Remain Widget
 
+![WhatsApp Image 2026-01-17 at 11 12 59 AM](https://github.com/user-attachments/assets/f7ac41f6-23d9-4f18-ab03-cbaa620cc4fb)
 
 
 **Day Remain** is a minimalist **KWGT time-awareness widget** that dynamically displays **time remaining or elapsed** based on the current part of the day.
@@ -10,13 +11,11 @@ Depending on the time and solar conditions, the widget automatically shows:
 
 
 
-- Time remaining until **sunrise**
+- Time remaining/lapsed until **sunrise** during night
 
-- Time remaining until **sunset**
+- Time remaining/lapsed until **sunset** during day
 
-- Time remaining until **midnight**
-
-- Time elapsed **since midnight**
+- Time remaining/lapsed until **midnight**
 
 
 
