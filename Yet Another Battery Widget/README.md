@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-12-15 at 21 42 00_a81914c8](https://github.com/user-attachments/assets/43daabd0-17b3-48a5-9523-00b451458551)
+![YABW](https://github.com/user-attachments/assets/6eb43ef4-b389-4e40-8c76-5041fbe6cf68)
 
 
 A detailed, data-rich **KWGT battery statistics widget** powered by Tasker and Shizuku.  
