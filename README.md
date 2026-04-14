@@ -4,4 +4,6 @@ Yet Another Battery Widget
 Resource Monitor Widget
 <img width="368" height="279" alt="image" src="https://github.com/user-attachments/assets/64be1be9-21e3-4ce6-95db-e1c7fb716e75" />
 Day Remain
+<img width="511" height="281" alt="image" src="https://github.com/user-attachments/assets/ad4cb6c1-333e-4a3b-889a-d71e86a2760a" />
+Cricket Score
 
