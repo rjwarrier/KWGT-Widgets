@@ -8,3 +8,4 @@ Day Remain
 <img width="511" height="281" alt="image" src="https://github.com/user-attachments/assets/ad4cb6c1-333e-4a3b-889a-d71e86a2760a" />
 Cricket Score
 
+[![Support](https://img.shields.io/badge/Support-Donate-blue?style=for-the-badge&logo=razorpay)](https://pages.razorpay.com/ranjithj)
